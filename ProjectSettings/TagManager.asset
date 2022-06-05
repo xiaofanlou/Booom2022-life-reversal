@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - PlayerAttack
+  - Enemy
+  - ClockPlatform
+  - playerInteraction
+  - PlayerHealth
+  - Box
+  - Cup
+  - Dialog
+  - Corpse
+  - Eyes trigger
+  - DialogText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - Ground
+  - playerInteraction
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 934154885
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 1485330591
+    locked: 0
+  - name: player
+    uniqueID: 750297335
+    locked: 0
