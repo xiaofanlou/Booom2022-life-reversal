@@ -1,0 +1,846 @@
+fileFormatVersion: 2
+guid: f5d32f984ef3eff4aa2d8653346edcde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5468146501641062955
+    second: hydra_boss_0
+  - first:
+      213: -4597519552006173316
+    second: hydra_boss_1
+  - first:
+      213: 98866739486075973
+    second: hydra_boss_2
+  - first:
+      213: 7967113991198094787
+    second: hydra_boss_3
+  - first:
+      213: 2257155386385685703
+    second: hydra_boss_4
+  - first:
+      213: -8809214866105606809
+    second: hydra_boss_5
+  - first:
+      213: -3308285476714258337
+    second: hydra_boss_6
+  - first:
+      213: -7370586443985667510
+    second: hydra_boss_7
+  - first:
+      213: 4160903804899816398
+    second: hydra_boss_8
+  - first:
+      213: 6188263073649281161
+    second: hydra_boss_9
+  - first:
+      213: 7188618919887863121
+    second: hydra_boss_10
+  - first:
+      213: 2193343722304013946
+    second: hydra_boss_11
+  - first:
+      213: -766265245701494063
+    second: hydra_boss_12
+  - first:
+      213: 6636676330934577445
+    second: hydra_boss_13
+  - first:
+      213: -704672510388169604
+    second: hydra_boss_14
+  - first:
+      213: 5563476844925969383
+    second: hydra_boss_15
+  - first:
+      213: -5514332576737864574
+    second: hydra_boss_16
+  - first:
+      213: 1157348998246095875
+    second: hydra_boss_17
+  - first:
+      213: 561604212251016396
+    second: hydra_boss_18
+  - first:
+      213: -94822355166251373
+    second: hydra_boss_19
+  - first:
+      213: 7722225453217721296
+    second: hydra_boss_20
+  - first:
+      213: -2260396676352132777
+    second: hydra_boss_21
+  - first:
+      213: -6796247942943113203
+    second: hydra_boss_22
+  - first:
+      213: 4472540706607221470
+    second: hydra_boss_23
+  - first:
+      213: -8362849560892480384
+    second: hydra_boss_24
+  - first:
+      213: 6968312856252654976
+    second: hydra_boss_25
+  - first:
+      213: 8449320921740253370
+    second: hydra_boss_26
+  - first:
+      213: -2953798454980695386
+    second: hydra_boss_27
+  - first:
+      213: 8434642216406705739
+    second: hydra_boss_28
+  - first:
+      213: 272672738036297651
+    second: hydra_boss_29
+  - first:
+      213: 8610540975848850064
+    second: hydra_boss_30
+  - first:
+      213: 5931419392568410606
+    second: hydra_boss_31
+  - first:
+      213: -9053902933890326003
+    second: hydra_boss_32
+  - first:
+      213: -8965432435744389504
+    second: hydra_boss_33
+  - first:
+      213: 5471783421139042068
+    second: hydra_boss_34
+  - first:
+      213: 8005707527346077197
+    second: hydra_boss_35
+  - first:
+      213: -1406014983726378325
+    second: hydra_boss_36
+  - first:
+      213: -3512557069789309623
+    second: hydra_boss_37
+  - first:
+      213: -983784596570945211
+    second: hydra_boss_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hydra_boss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5b3ed6abd3d14b0800000000000000
+      internalID: -5468146501641062955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d42ce73545230c0800000000000000
+      internalID: -4597519552006173316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c2b2796ce3f5100800000000000000
+      internalID: 98866739486075973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c53862a6ffd09e60800000000000000
+      internalID: 7967113991198094787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccd0607dd6035f10800000000000000
+      internalID: 2257155386385685703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d5fa3a0c16fb580800000000000000
+      internalID: -8809214866105606809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_6
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50ecd013eb9612d0800000000000000
+      internalID: -3308285476714258337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4abce32eaa66b990800000000000000
+      internalID: -7370586443985667510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3ff9317ff7eb930800000000000000
+      internalID: 4160903804899816398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_9
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98848898a7021e550800000000000000
+      internalID: 6188263073649281161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d719912da13c360800000000000000
+      internalID: 7188618919887863121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_11
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76834e9e72507e10800000000000000
+      internalID: 2193343722304013946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_12
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da2c32a1ddad55f0800000000000000
+      internalID: -766265245701494063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_13
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529299ad5f53a1c50800000000000000
+      internalID: 6636676330934577445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_14
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c749457d5108836f0800000000000000
+      internalID: -704672510388169604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_15
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e36ce1c6b0753d40800000000000000
+      internalID: 5563476844925969383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_16
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284dc26dcb72973b0800000000000000
+      internalID: -5514332576737864574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_17
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cdc9138cabf0010800000000000000
+      internalID: 1157348998246095875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_18
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccb5973e083bc700800000000000000
+      internalID: 561604212251016396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_19
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396bc83029f1faef0800000000000000
+      internalID: -94822355166251373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_20
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dba586b22bda2b60800000000000000
+      internalID: 7722225453217721296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_21
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759be8ee23571a0e0800000000000000
+      internalID: -2260396676352132777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_22
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0085630180eea1a0800000000000000
+      internalID: -6796247942943113203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_23
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda4ccc7318a11e30800000000000000
+      internalID: 4472540706607221470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_24
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084e8f4f1a031fb80800000000000000
+      internalID: -8362849560892480384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_25
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0852ab08f9b64b060800000000000000
+      internalID: 6968312856252654976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_26
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab89a95ac94024570800000000000000
+      internalID: 8449320921740253370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_27
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa27c084fff107d0800000000000000
+      internalID: -2953798454980695386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hydra_boss_28
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 0
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b466f6c386edd0570800000000000000
+      internalID: 8434642216406705739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
